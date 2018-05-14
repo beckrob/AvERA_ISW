@@ -1,6 +1,6 @@
 # AvERA_ISW
 
-This repository contains code and data that allows the reproduction of the results of our paper:
+This repository contains code and data that allow the reproduction of the results of our paper:
 ### Beck et al. (2018): The integrated Sachs-Wolfe effect in the AvERA cosmology (https://arxiv.org/abs/1801.08566)
 Authors of publications that make use of our code or data are required to reference our paper **arXiv:1801.08566 [astro-ph.CO]** in their works.
 
